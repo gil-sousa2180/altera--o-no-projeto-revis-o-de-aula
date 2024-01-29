@@ -22,7 +22,7 @@ body {
 }
 
 .caixa-principal {
-    width: 35%;
+    width: 40%;
 }
 
 .caixa-video-mario {
